@@ -1,0 +1,1675 @@
+{
+   "countries": {
+      "country": [
+         {
+            "code": "af",
+            "handle": "afghanistan",
+            "continent": "asia",
+            "iso": "4",
+            "text": "Afghanistan"
+         },
+         {
+            "code": "al",
+            "handle": "albania",
+            "continent": "europe",
+            "iso": "8",
+            "text": "Albania"
+         },
+         {
+            "code": "dz",
+            "handle": "algeria",
+            "continent": "africa",
+            "iso": "12",
+            "text": "Algeria"
+         },
+         {
+            "code": "as",
+            "handle": "american-samoa",
+            "continent": "polynesia",
+            "iso": "16",
+            "text": "American Samoa"
+         },
+         {
+            "code": "ad",
+            "handle": "andorra",
+            "continent": "europe",
+            "iso": "20",
+            "text": "Andorra"
+         },
+         {
+            "code": "ao",
+            "handle": "angola",
+            "continent": "africa",
+            "iso": "24",
+            "text": "Angola"
+         },
+         {
+            "code": "ai",
+            "handle": "anguilla",
+            "continent": "north america",
+            "iso": "660",
+            "text": "Anguilla"
+         },
+         {
+            "code": "aq",
+            "handle": "antarctica",
+            "continent": "antarctica",
+            "iso": "10",
+            "text": "Antarctica"
+         },
+         {
+            "code": "ag",
+            "handle": "antigua-and-barbuda",
+            "continent": "north america",
+            "iso": "28",
+            "text": "Antigua And Barbuda"
+         },
+         {
+            "code": "ar",
+            "handle": "argentina",
+            "continent": "south america",
+            "iso": "32",
+            "text": "Argentina"
+         },
+         {
+            "code": "am",
+            "handle": "armenia",
+            "continent": "europe",
+            "iso": "51",
+            "text": "Armenia"
+         },
+         {
+            "code": "aw",
+            "handle": "aruba",
+            "continent": "north america",
+            "iso": "533",
+            "text": "Aruba"
+         },
+         {
+            "code": "au",
+            "handle": "australia",
+            "continent": "australasia",
+            "iso": "36",
+            "text": "Australia"
+         },
+         {
+            "code": "at",
+            "handle": "austria",
+            "continent": "europe",
+            "iso": "40",
+            "text": "Austria"
+         },
+         {
+            "code": "az",
+            "handle": "azerbaijan",
+            "continent": "europe",
+            "iso": "31",
+            "text": "Azerbaijan"
+         },
+         {
+            "code": "bs",
+            "handle": "bahamas",
+            "continent": "north america",
+            "iso": "44",
+            "text": "Bahamas"
+         },
+         {
+            "code": "bh",
+            "handle": "bahrain",
+            "continent": "asia",
+            "iso": "48",
+            "text": "Bahrain"
+         },
+         {
+            "code": "bd",
+            "handle": "bangladesh",
+            "continent": "asia",
+            "iso": "50",
+            "text": "Bangladesh"
+         },
+         {
+            "code": "bb",
+            "handle": "barbados",
+            "continent": "north america",
+            "iso": "52",
+            "text": "Barbados"
+         },
+         {
+            "code": "by",
+            "handle": "belarus",
+            "continent": "europe",
+            "iso": "112",
+            "text": "Belarus"
+         },
+         {
+            "code": "be",
+            "handle": "belgium",
+            "continent": "europe",
+            "iso": "56",
+            "text": "Belgium"
+         },
+         {
+            "code": "bz",
+            "handle": "belize",
+            "continent": "central america",
+            "iso": "84",
+            "text": "Belize"
+         },
+         {
+            "code": "bj",
+            "handle": "benin",
+            "continent": "africa",
+            "iso": "204",
+            "text": "Benin"
+         },
+         {
+            "code": "bm",
+            "handle": "bermuda",
+            "continent": "north america",
+            "iso": "60",
+            "text": "Bermuda"
+         },
+         {
+            "code": "bt",
+            "handle": "bhutan",
+            "continent": "asia",
+            "iso": "64",
+            "text": "Bhutan"
+         },
+         {
+            "code": "bo",
+            "handle": "bolivia",
+            "continent": "south america",
+            "iso": "68",
+            "text": "Bolivia"
+         },
+         {
+            "code": "ba",
+            "handle": "bosnia-and-herzegovina",
+            "continent": "europe",
+            "iso": "70",
+            "text": "Bosnia And Herzegovina"
+         },
+         {
+            "code": "bw",
+            "handle": "botswana",
+            "continent": "africa",
+            "iso": "72",
+            "text": "Botswana"
+         },
+         {
+            "code": "bv",
+            "handle": "bouvet-island",
+            "continent": "antarctica",
+            "iso": "74",
+            "text": "Bouvet Island"
+         },
+         {
+            "code": "br",
+            "handle": "brazil",
+            "continent": "south america",
+            "iso": "76",
+            "text": "Brazil"
+         },
+         {
+            "code": "io",
+            "handle": "british-indian-ocean-continent",
+            "continent": "asia",
+            "iso": "86",
+            "text": "British Indian Ocean continent"
+         },
+         {
+            "code": "bn",
+            "handle": "brunei-darussalam",
+            "continent": "asia",
+            "iso": "96",
+            "text": "Brunei Darussalam"
+         },
+         {
+            "code": "bg",
+            "handle": "bulgaria",
+            "continent": "europe",
+            "iso": "100",
+            "text": "Bulgaria"
+         },
+         {
+            "code": "bf",
+            "handle": "burkina-faso",
+            "continent": "africa",
+            "iso": "854",
+            "text": "Burkina Faso"
+         },
+         {
+            "code": "bi",
+            "handle": "burundi",
+            "continent": "africa",
+            "iso": "108",
+            "text": "Burundi"
+         },
+         {
+            "code": "kh",
+            "handle": "cambodia",
+            "continent": "asia",
+            "iso": "116",
+            "text": "Cambodia"
+         },
+         {
+            "code": "cm",
+            "handle": "cameroon",
+            "continent": "africa",
+            "iso": "120",
+            "text": "Cameroon"
+         },
+         {
+            "code": "ca",
+            "handle": "canada",
+            "continent": "north america",
+            "iso": "124",
+            "text": "Canada"
+         },
+         {
+            "code": "cv",
+            "handle": "cape-verde",
+            "continent": "africa",
+            "iso": "132",
+            "text": "Cape Verde"
+         },
+         {
+            "code": "ky",
+            "handle": "cayman-islands",
+            "continent": "north america",
+            "iso": "136",
+            "text": "Cayman Islands"
+         },
+         {
+            "code": "cf",
+            "handle": "central-african-republic",
+            "continent": "africa",
+            "iso": "140",
+            "text": "Central African Republic"
+         },
+         {
+            "code": "td",
+            "handle": "chad",
+            "continent": "africa",
+            "iso": "148",
+            "text": "Chad"
+         },
+         {
+            "code": "cl",
+            "handle": "chile",
+            "continent": "south america",
+            "iso": "152",
+            "text": "Chile"
+         },
+         {
+            "code": "cn",
+            "handle": "china",
+            "continent": "asia",
+            "iso": "156",
+            "text": "China"
+         },
+         {
+            "code": "cx",
+            "handle": "christmas-island",
+            "continent": "australasia",
+            "iso": "162",
+            "text": "Christmas Island"
+         },
+         {
+            "code": "cc",
+            "handle": "cocos-islands",
+            "continent": "australasia",
+            "iso": "166",
+            "text": "Cocos (Keeling) Islands"
+         },
+         {
+            "code": "co",
+            "handle": "colombia",
+            "continent": "south america",
+            "iso": "170",
+            "text": "Colombia"
+         },
+         {
+            "code": "km",
+            "handle": "comoros",
+            "continent": "africa",
+            "iso": "174",
+            "text": "Comoros"
+         },
+         {
+            "code": "cg",
+            "handle": "congo",
+            "continent": "africa",
+            "iso": "178",
+            "text": "Congo"
+         },
+         {
+            "code": "ck",
+            "handle": "cook-islands",
+            "continent": "polynesia",
+            "iso": "184",
+            "text": "Cook Islands"
+         },
+         {
+            "code": "cr",
+            "handle": "costa-rica",
+            "continent": "central america",
+            "iso": "188",
+            "text": "Costa Rica"
+         },
+         {
+            "code": "ci",
+            "handle": "cote-divoire",
+            "continent": "africa",
+            "iso": "384",
+            "text": "Cote D'Ivoire"
+         },
+         {
+            "code": "hr",
+            "handle": "croatia",
+            "continent": "europe",
+            "iso": "191",
+            "text": "Croatia"
+         },
+         {
+            "code": "cu",
+            "handle": "cuba",
+            "continent": "central america",
+            "iso": "192",
+            "text": "Cuba"
+         },
+         {
+            "code": "cy",
+            "handle": "cyprus",
+            "continent": "europe",
+            "iso": "196",
+            "text": "Cyprus"
+         },
+         {
+            "code": "cz",
+            "handle": "czech-republic",
+            "continent": "europe",
+            "iso": "203",
+            "text": "Czech Republic"
+         },
+         {
+            "code": "dk",
+            "handle": "denmark",
+            "continent": "europe",
+            "iso": "208",
+            "text": "Denmark"
+         },
+         {
+            "code": "dj",
+            "handle": "djibouti",
+            "continent": "africa",
+            "iso": "262",
+            "text": "Djibouti"
+         },
+         {
+            "code": "dm",
+            "handle": "dominica",
+            "continent": "central america",
+            "iso": "212",
+            "text": "Dominica"
+         },
+         {
+            "code": "do",
+            "handle": "dominican-republic",
+            "continent": "central america",
+            "iso": "214",
+            "text": "Dominican Republic"
+         },
+         {
+            "code": "ec",
+            "handle": "ecuador",
+            "continent": "africa",
+            "iso": "218",
+            "text": "Ecuador"
+         },
+         {
+            "code": "eg",
+            "handle": "egypt",
+            "continent": "africa",
+            "iso": "818",
+            "text": "Egypt"
+         },
+         {
+            "code": "sv",
+            "handle": "el-salvador",
+            "continent": "central america",
+            "iso": "222",
+            "text": "El Salvador"
+         },
+         {
+            "code": "gq",
+            "handle": "equatorial-guinea",
+            "continent": "africa",
+            "iso": "226",
+            "text": "Equatorial Guinea"
+         },
+         {
+            "code": "er",
+            "handle": "eritrea",
+            "continent": "africa",
+            "iso": "232",
+            "text": "Eritrea"
+         },
+         {
+            "code": "ee",
+            "handle": "estonia",
+            "continent": "europe",
+            "iso": "233",
+            "text": "Estonia"
+         },
+         {
+            "code": "et",
+            "handle": "ethiopia",
+            "continent": "africa",
+            "iso": "210",
+            "text": "Ethiopia"
+         },
+         {
+            "code": "fk",
+            "handle": "falkland-islands",
+            "continent": "south america",
+            "iso": "238",
+            "text": "Falkland Islands (Malvinas)"
+         },
+         {
+            "code": "fo",
+            "handle": "faroe-islands",
+            "continent": "europe",
+            "iso": "234",
+            "text": "Faroe Islands"
+         },
+         {
+            "code": "fj",
+            "handle": "fiji",
+            "continent": "melanesia",
+            "iso": "242",
+            "text": "Fiji"
+         },
+         {
+            "code": "fi",
+            "handle": "finland",
+            "continent": "europe",
+            "iso": "246",
+            "text": "Finland"
+         },
+         {
+            "code": "fr",
+            "handle": "france",
+            "continent": "europe",
+            "alt": "Francaise",
+            "iso": "250",
+            "text": "France"
+         },
+         {
+            "code": "fx",
+            "handle": "france-metropolitan",
+            "continent": "europe",
+            "iso": "249",
+            "text": "France, Metropolitan"
+         },
+         {
+            "code": "gf",
+            "handle": "french-guiana",
+            "continent": "south america",
+            "iso": "254",
+            "text": "French Guiana"
+         },
+         {
+            "code": "pf",
+            "handle": "french-polynesia",
+            "continent": "polynesia",
+            "iso": "258",
+            "text": "French Polynesia"
+         },
+         {
+            "code": "tf",
+            "handle": "french-southern-territories",
+            "continent": "antarctica",
+            "iso": "260",
+            "text": "French Southern Territories"
+         },
+         {
+            "code": "ga",
+            "handle": "gabon",
+            "continent": "africa",
+            "iso": "266",
+            "text": "Gabon"
+         },
+         {
+            "code": "gm",
+            "handle": "gambia",
+            "continent": "africa",
+            "iso": "270",
+            "text": "Gambia"
+         },
+         {
+            "code": "ge",
+            "handle": "georgia",
+            "continent": "asia",
+            "iso": "268",
+            "text": "Georgia"
+         },
+         {
+            "code": "de",
+            "handle": "germany",
+            "continent": "europe",
+            "alt": "Deutschland",
+            "iso": "276",
+            "text": "Germany"
+         },
+         {
+            "code": "gh",
+            "handle": "ghana",
+            "continent": "africa",
+            "iso": "288",
+            "text": "Ghana"
+         },
+         {
+            "code": "gi",
+            "handle": "gibraltar",
+            "continent": "europe",
+            "iso": "292",
+            "text": "Gibraltar"
+         },
+         {
+            "code": "gr",
+            "handle": "greece",
+            "continent": "europe",
+            "iso": "300",
+            "text": "Greece"
+         },
+         {
+            "code": "gl",
+            "handle": "greenland",
+            "continent": "north america",
+            "iso": "304",
+            "text": "Greenland"
+         },
+         {
+            "code": "gd",
+            "handle": "grenada",
+            "continent": "north america",
+            "iso": "308",
+            "text": "Grenada"
+         },
+         {
+            "code": "gp",
+            "handle": "guadeloupe",
+            "continent": "north america",
+            "iso": "312",
+            "text": "Guadeloupe"
+         },
+         {
+            "code": "gu",
+            "handle": "guam",
+            "continent": "australasia",
+            "iso": "316",
+            "text": "Guam"
+         },
+         {
+            "code": "gt",
+            "handle": "guatemala",
+            "continent": "north america",
+            "iso": "320",
+            "text": "Guatemala"
+         },
+         {
+            "code": "gn",
+            "handle": "guinea",
+            "continent": "africa",
+            "iso": "324",
+            "text": "Guinea"
+         },
+         {
+            "code": "gw",
+            "handle": "guinea-bissau",
+            "continent": "africa",
+            "iso": "624",
+            "text": "Guinea-Bissau"
+         },
+         {
+            "code": "gy",
+            "handle": "guyana",
+            "continent": "south america",
+            "iso": "328",
+            "text": "Guyana"
+         },
+         {
+            "code": "ht",
+            "handle": "haiti",
+            "continent": "north america",
+            "iso": "332",
+            "text": "Haiti"
+         },
+         {
+            "code": "hm",
+            "handle": "heard-island-and-mcdonald-islands",
+            "continent": "antarctica",
+            "iso": "334",
+            "text": "Heard Island and Mcdonald Islands"
+         },
+         {
+            "code": "hn",
+            "handle": "honduras",
+            "continent": "north america",
+            "iso": "340",
+            "text": "Honduras"
+         },
+         {
+            "code": "hk",
+            "handle": "hong-kong",
+            "continent": "asia",
+            "iso": "344",
+            "text": "Hong Kong"
+         },
+         {
+            "code": "hu",
+            "handle": "hungary",
+            "continent": "europe",
+            "iso": "348",
+            "text": "Hungary"
+         },
+         {
+            "code": "is",
+            "handle": "iceland",
+            "continent": "europe",
+            "iso": "352",
+            "text": "Iceland"
+         },
+         {
+            "code": "in",
+            "handle": "india",
+            "continent": "asia",
+            "iso": "356",
+            "text": "India"
+         },
+         {
+            "code": "id",
+            "handle": "indonesia",
+            "continent": "asia",
+            "iso": "360",
+            "text": "Indonesia"
+         },
+         {
+            "code": "ir",
+            "handle": "iran-islamic-republic-of",
+            "continent": "asia",
+            "iso": "364",
+            "text": "Iran, Islamic Republic Of"
+         },
+         {
+            "code": "iq",
+            "handle": "iraq",
+            "continent": "asia",
+            "iso": "368",
+            "text": "Iraq"
+         },
+         {
+            "code": "ie",
+            "handle": "ireland",
+            "continent": "europe",
+            "iso": "372",
+            "text": "Ireland"
+         },
+         {
+            "code": "il",
+            "handle": "israel",
+            "continent": "asia",
+            "iso": "376",
+            "text": "Israel"
+         },
+         {
+            "code": "it",
+            "handle": "italy",
+            "continent": "europe",
+            "iso": "380",
+            "text": "Italy"
+         },
+         {
+            "code": "jm",
+            "handle": "jamaica",
+            "continent": "north america",
+            "iso": "388",
+            "text": "Jamaica"
+         },
+         {
+            "code": "jp",
+            "handle": "japan",
+            "continent": "asia",
+            "iso": "392",
+            "text": "Japan"
+         },
+         {
+            "code": "jo",
+            "handle": "jordan",
+            "continent": "asia",
+            "iso": "400",
+            "text": "Jordan"
+         },
+         {
+            "code": "kz",
+            "handle": "kazakhstan",
+            "continent": "asia",
+            "iso": "398",
+            "text": "Kazakhstan"
+         },
+         {
+            "code": "ke",
+            "handle": "kenya",
+            "continent": "africa",
+            "iso": "404",
+            "text": "Kenya"
+         },
+         {
+            "code": "ki",
+            "handle": "kiribati",
+            "continent": "australasia",
+            "iso": "296",
+            "text": "Kiribati"
+         },
+         {
+            "code": "kp",
+            "handle": "korea-democratic-peoples-republic-of",
+            "continent": "asia",
+            "alt": "dprk",
+            "iso": "408",
+            "text": "Korea, Democratic People'S Republic Of"
+         },
+         {
+            "code": "kr",
+            "handle": "korea-republic-of",
+            "continent": "asia",
+            "iso": "410",
+            "text": "Korea, Republic Of"
+         },
+         {
+            "code": "kw",
+            "handle": "kuwait",
+            "continent": "asia",
+            "iso": "414",
+            "text": "Kuwait"
+         },
+         {
+            "code": "kg",
+            "handle": "kyrgyzstan",
+            "continent": "asia",
+            "iso": "417",
+            "text": "Kyrgyzstan"
+         },
+         {
+            "code": "la",
+            "handle": "lao-peoples-democratic-republic",
+            "continent": "asia",
+            "iso": "418",
+            "text": "Lao People's Democratic Republic"
+         },
+         {
+            "code": "lv",
+            "handle": "latvia",
+            "continent": "europe",
+            "iso": "428",
+            "text": "Latvia"
+         },
+         {
+            "code": "lb",
+            "handle": "lebanon",
+            "continent": "asia",
+            "iso": "422",
+            "text": "Lebanon"
+         },
+         {
+            "code": "ls",
+            "handle": "lesotho",
+            "continent": "africa",
+            "iso": "426",
+            "text": "Lesotho"
+         },
+         {
+            "code": "lr",
+            "handle": "liberia",
+            "continent": "africa",
+            "iso": "430",
+            "text": "Liberia"
+         },
+         {
+            "code": "ly",
+            "handle": "libyan-arab-jamahiriya",
+            "continent": "africa",
+            "iso": "434",
+            "text": "Libyan Arab Jamahiriya"
+         },
+         {
+            "code": "li",
+            "handle": "liechtenstein",
+            "continent": "europe",
+            "iso": "438",
+            "text": "Liechtenstein"
+         },
+         {
+            "code": "lt",
+            "handle": "lithuania",
+            "continent": "europe",
+            "iso": "440",
+            "text": "Lithuania"
+         },
+         {
+            "code": "lu",
+            "handle": "luxembourg",
+            "continent": "europe",
+            "iso": "442",
+            "text": "Luxembourg"
+         },
+         {
+            "code": "mo",
+            "handle": "macau",
+            "continent": "asia",
+            "iso": "446",
+            "text": "Macau"
+         },
+         {
+            "code": "mk",
+            "handle": "macedonia-the-former-yugoslav-republic-of",
+            "continent": "europe",
+            "iso": "807",
+            "text": "Macedonia, The Former Yugoslav Republic Of"
+         },
+         {
+            "code": "mg",
+            "handle": "madagascar",
+            "continent": "africa",
+            "iso": "450",
+            "text": "Madagascar"
+         },
+         {
+            "code": "mw",
+            "handle": "malawi",
+            "continent": "africa",
+            "iso": "454",
+            "text": "Malawi"
+         },
+         {
+            "code": "my",
+            "handle": "malaysia",
+            "continent": "asia",
+            "iso": "458",
+            "text": "Malaysia"
+         },
+         {
+            "code": "mv",
+            "handle": "maldives",
+            "continent": "asia",
+            "iso": "462",
+            "text": "Maldives"
+         },
+         {
+            "code": "ml",
+            "handle": "mali",
+            "continent": "africa",
+            "iso": "466",
+            "text": "Mali"
+         },
+         {
+            "code": "mt",
+            "handle": "malta",
+            "continent": "europe",
+            "iso": "470",
+            "text": "Malta"
+         },
+         {
+            "code": "mh",
+            "handle": "marshall-islands",
+            "continent": "australasia",
+            "iso": "584",
+            "text": "Marshall Islands"
+         },
+         {
+            "code": "mq",
+            "handle": "martinique",
+            "continent": "north america",
+            "iso": "474",
+            "text": "Martinique"
+         },
+         {
+            "code": "mr",
+            "handle": "mauritania",
+            "continent": "africa",
+            "iso": "478",
+            "text": "Mauritania"
+         },
+         {
+            "code": "mu",
+            "handle": "mauritius",
+            "continent": "africa",
+            "iso": "480",
+            "text": "Mauritius"
+         },
+         {
+            "code": "yt",
+            "handle": "mayotte",
+            "continent": "africa",
+            "iso": "175",
+            "text": "Mayotte"
+         },
+         {
+            "code": "mx",
+            "handle": "mexico",
+            "continent": "north america",
+            "iso": "484",
+            "text": "Mexico"
+         },
+         {
+            "code": "fm",
+            "handle": "micronesia-federated-states-of",
+            "continent": "micronesia",
+            "iso": "583",
+            "text": "Micronesia, Federated States Of"
+         },
+         {
+            "code": "md",
+            "handle": "moldova-republic-of",
+            "continent": "europe",
+            "iso": "498",
+            "text": "Moldova, Republic Of"
+         },
+         {
+            "code": "mc",
+            "handle": "monaco",
+            "continent": "europe",
+            "iso": "492",
+            "text": "Monaco"
+         },
+         {
+            "code": "mn",
+            "handle": "mongolia",
+            "continent": "asia",
+            "iso": "496",
+            "text": "Mongolia"
+         },
+         {
+            "code": "ms",
+            "handle": "montserrat",
+            "continent": "north america",
+            "iso": "500",
+            "text": "Montserrat"
+         },
+         {
+            "code": "ma",
+            "handle": "morocco",
+            "continent": "africa",
+            "iso": "504",
+            "text": "Morocco"
+         },
+         {
+            "code": "mz",
+            "handle": "mozambique",
+            "continent": "africa",
+            "iso": "508",
+            "text": "Mozambique"
+         },
+         {
+            "code": "mm",
+            "handle": "myanmar",
+            "continent": "asia",
+            "iso": "104",
+            "text": "Myanmar"
+         },
+         {
+            "code": "na",
+            "handle": "namibia",
+            "continent": "africa",
+            "iso": "516",
+            "text": "Namibia"
+         },
+         {
+            "code": "nr",
+            "handle": "nauru",
+            "continent": "australasia",
+            "iso": "520",
+            "text": "Nauru"
+         },
+         {
+            "code": "np",
+            "handle": "nepal",
+            "continent": "asia",
+            "iso": "524",
+            "text": "Nepal"
+         },
+         {
+            "code": "nl",
+            "handle": "netherlands",
+            "continent": "europe",
+            "alt": "Nederlands NL Holland",
+            "iso": "528",
+            "text": "Netherlands"
+         },
+         {
+            "code": "an",
+            "handle": "netherlands-antilles",
+            "continent": "north america",
+            "iso": "530",
+            "text": "Netherlands Antilles"
+         },
+         {
+            "code": "nc",
+            "handle": "new-caledonia",
+            "continent": "australasia",
+            "iso": "540",
+            "text": "New Caledonia"
+         },
+         {
+            "code": "nz",
+            "handle": "new-zealand",
+            "continent": "australasia",
+            "iso": "554",
+            "text": "New Zealand"
+         },
+         {
+            "code": "ni",
+            "handle": "nicaragua",
+            "continent": "north america",
+            "iso": "558",
+            "text": "Nicaragua"
+         },
+         {
+            "code": "ne",
+            "handle": "niger",
+            "continent": "africa",
+            "iso": "562",
+            "text": "Niger"
+         },
+         {
+            "code": "ng",
+            "handle": "nigeria",
+            "continent": "africa",
+            "iso": "566",
+            "text": "Nigeria"
+         },
+         {
+            "code": "nu",
+            "handle": "niue",
+            "continent": "polynesia",
+            "iso": "570",
+            "text": "Niue"
+         },
+         {
+            "code": "nf",
+            "handle": "norfolk-island",
+            "continent": "australasia",
+            "iso": "574",
+            "text": "Norfolk Island"
+         },
+         {
+            "code": "mp",
+            "handle": "northern-mariana-islands",
+            "continent": "australasia",
+            "iso": "580",
+            "text": "Northern Mariana Islands"
+         },
+         {
+            "code": "no",
+            "handle": "norway",
+            "continent": "europe",
+            "iso": "578",
+            "text": "Norway"
+         },
+         {
+            "code": "om",
+            "handle": "oman",
+            "continent": "asia",
+            "iso": "512",
+            "text": "Oman"
+         },
+         {
+            "code": "pk",
+            "handle": "pakistan",
+            "continent": "asia",
+            "iso": "586",
+            "text": "Pakistan"
+         },
+         {
+            "code": "pw",
+            "handle": "palau",
+            "continent": "asia",
+            "iso": "585",
+            "text": "Palau"
+         },
+         {
+            "code": "pa",
+            "handle": "panama",
+            "continent": "central america",
+            "iso": "591",
+            "text": "Panama"
+         },
+         {
+            "code": "pg",
+            "handle": "papua-new-guinea",
+            "continent": "melanesia",
+            "iso": "598",
+            "text": "Papua New Guinea"
+         },
+         {
+            "code": "py",
+            "handle": "paraguay",
+            "continent": "south america",
+            "iso": "600",
+            "text": "Paraguay"
+         },
+         {
+            "code": "pe",
+            "handle": "peru",
+            "continent": "south america",
+            "iso": "604",
+            "text": "Peru"
+         },
+         {
+            "code": "ph",
+            "handle": "philippines",
+            "continent": "asia",
+            "iso": "608",
+            "text": "Philippines"
+         },
+         {
+            "code": "pn",
+            "handle": "pitcairn",
+            "continent": "australasia",
+            "iso": "612",
+            "text": "Pitcairn"
+         },
+         {
+            "code": "pl",
+            "handle": "poland",
+            "continent": "europe",
+            "iso": "616",
+            "text": "Poland"
+         },
+         {
+            "code": "pt",
+            "handle": "portugal",
+            "continent": "europe",
+            "iso": "620",
+            "text": "Portugal"
+         },
+         {
+            "code": "pr",
+            "handle": "puerto-rico",
+            "continent": "south america",
+            "iso": "630",
+            "text": "Puerto Rico"
+         },
+         {
+            "code": "qa",
+            "handle": "qatar",
+            "continent": "asia",
+            "iso": "634",
+            "text": "Qatar"
+         },
+         {
+            "code": "re",
+            "handle": "reunion",
+            "continent": "africa",
+            "iso": "638",
+            "text": "Reunion"
+         },
+         {
+            "code": "ro",
+            "handle": "romania",
+            "continent": "europe",
+            "iso": "642",
+            "text": "Romania"
+         },
+         {
+            "code": "ru",
+            "handle": "russian-federation",
+            "continent": "asia",
+            "alt": "Pocc",
+            "iso": "643",
+            "text": "Russian Federation"
+         },
+         {
+            "code": "rw",
+            "handle": "rwanda",
+            "continent": "africa",
+            "iso": "646",
+            "text": "Rwanda"
+         },
+         {
+            "code": "sh",
+            "handle": "saint-helena",
+            "continent": "none",
+            "iso": "654",
+            "text": "Saint Helena"
+         },
+         {
+            "code": "kn",
+            "handle": "saint-kitts-and-nevis",
+            "continent": "north america",
+            "iso": "659",
+            "text": "Saint Kitts And Nevis"
+         },
+         {
+            "code": "lc",
+            "handle": "saint-lucia",
+            "continent": "north america",
+            "iso": "662",
+            "text": "Saint Lucia"
+         },
+         {
+            "code": "pm",
+            "handle": "saint-pierre-and-miquelon",
+            "continent": "north america",
+            "iso": "666",
+            "text": "Saint Pierre And Miquelon"
+         },
+         {
+            "code": "vc",
+            "handle": "saint-vincent-and-the-grenadines",
+            "continent": "north america",
+            "iso": "670",
+            "text": "Saint Vincent And The Grenadines"
+         },
+         {
+            "code": "ws",
+            "handle": "samoa",
+            "continent": "africa",
+            "iso": "882",
+            "text": "Samoa"
+         },
+         {
+            "code": "sm",
+            "handle": "san-marino",
+            "continent": "europe",
+            "iso": "674",
+            "text": "San Marino"
+         },
+         {
+            "code": "st",
+            "handle": "sao-tome-and-principe",
+            "continent": "africa",
+            "iso": "678",
+            "text": "Sao Tome And Principe"
+         },
+         {
+            "code": "sa",
+            "handle": "saudi-arabia",
+            "continent": "asia",
+            "iso": "682",
+            "text": "Saudi Arabia"
+         },
+         {
+            "code": "sn",
+            "handle": "senegal",
+            "continent": "africa",
+            "iso": "686",
+            "text": "Senegal"
+         },
+         {
+            "code": "sc",
+            "handle": "seychelles",
+            "continent": "africa",
+            "iso": "690",
+            "text": "Seychelles"
+         },
+         {
+            "code": "sl",
+            "handle": "sierra-leone",
+            "continent": "africa",
+            "iso": "694",
+            "text": "Sierra Leone"
+         },
+         {
+            "code": "sg",
+            "handle": "singapore",
+            "continent": "asia",
+            "iso": "702",
+            "text": "Singapore"
+         },
+         {
+            "code": "sk",
+            "handle": "slovakia",
+            "continent": "europe",
+            "iso": "703",
+            "text": "Slovakia (Slovak Republic)"
+         },
+         {
+            "code": "si",
+            "handle": "slovenia",
+            "continent": "europe",
+            "iso": "705",
+            "text": "Slovenia"
+         },
+         {
+            "code": "sb",
+            "handle": "solomon-islands",
+            "continent": "australasia",
+            "iso": "90",
+            "text": "Solomon Islands"
+         },
+         {
+            "code": "so",
+            "handle": "somalia",
+            "continent": "africa",
+            "iso": "706",
+            "text": "Somalia"
+         },
+         {
+            "code": "za",
+            "handle": "south-africa",
+            "continent": "africa",
+            "iso": "710",
+            "text": "South Africa"
+         },
+         {
+            "code": "es",
+            "handle": "spain",
+            "continent": "europe",
+            "alt": "Espana",
+            "iso": "724",
+            "text": "Spain"
+         },
+         {
+            "code": "lk",
+            "handle": "sri-lanka",
+            "continent": "asia",
+            "iso": "144",
+            "text": "Sri Lanka"
+         },
+         {
+            "code": "sd",
+            "handle": "sudan",
+            "continent": "africa",
+            "iso": "736",
+            "text": "Sudan"
+         },
+         {
+            "code": "sr",
+            "handle": "suriname",
+            "continent": "south america",
+            "iso": "740",
+            "text": "Suriname"
+         },
+         {
+            "code": "sj",
+            "handle": "svalbard-and-jan-mayen-islands",
+            "continent": "europe",
+            "iso": "744",
+            "text": "Svalbard And Jan Mayen Islands"
+         },
+         {
+            "code": "sz",
+            "handle": "swaziland",
+            "continent": "africa",
+            "iso": "748",
+            "text": "Swaziland"
+         },
+         {
+            "code": "se",
+            "handle": "sweden",
+            "continent": "europe",
+            "iso": "752",
+            "text": "Sweden"
+         },
+         {
+            "code": "ch",
+            "handle": "switzerland",
+            "continent": "europe",
+            "iso": "756",
+            "text": "Switzerland"
+         },
+         {
+            "code": "sy",
+            "handle": "syrian-arab-republic",
+            "continent": "asia",
+            "iso": "760",
+            "text": "Syrian Arab Republic"
+         },
+         {
+            "code": "tw",
+            "handle": "taiwan-province-of-china",
+            "continent": "asia",
+            "iso": "158",
+            "text": "Taiwan, Province Of China"
+         },
+         {
+            "code": "tj",
+            "handle": "tajikistan",
+            "continent": "asia",
+            "iso": "762",
+            "text": "Tajikistan"
+         },
+         {
+            "code": "tz",
+            "handle": "tanzania-united-republic-of",
+            "continent": "africa",
+            "iso": "834",
+            "text": "Tanzania, United Republic Of"
+         },
+         {
+            "code": "th",
+            "handle": "thailand",
+            "continent": "asia",
+            "iso": "764",
+            "text": "Thailand"
+         },
+         {
+            "code": "tg",
+            "handle": "togo",
+            "continent": "africa",
+            "iso": "768",
+            "text": "Togo"
+         },
+         {
+            "code": "tk",
+            "handle": "tokelau",
+            "continent": "australasia",
+            "iso": "772",
+            "text": "Tokelau"
+         },
+         {
+            "code": "to",
+            "handle": "tonga",
+            "continent": "polynesia",
+            "iso": "776",
+            "text": "Tonga"
+         },
+         {
+            "code": "tt",
+            "handle": "trinidad-and-tobago",
+            "continent": "north america",
+            "iso": "780",
+            "text": "Trinidad And Tobago"
+         },
+         {
+            "code": "tn",
+            "handle": "tunisia",
+            "continent": "africa",
+            "iso": "788",
+            "text": "Tunisia"
+         },
+         {
+            "code": "tr",
+            "handle": "turkey",
+            "continent": "asia",
+            "iso": "792",
+            "text": "Turkey"
+         },
+         {
+            "code": "tm",
+            "handle": "turkmenistan",
+            "continent": "asia",
+            "iso": "795",
+            "text": "Turkmenistan"
+         },
+         {
+            "code": "tc",
+            "handle": "turks-and-caicos-islands",
+            "continent": "north america",
+            "iso": "796",
+            "text": "Turks And Caicos Islands"
+         },
+         {
+            "code": "tv",
+            "handle": "tuvalu",
+            "continent": "polynesia",
+            "iso": "798",
+            "text": "Tuvalu"
+         },
+         {
+            "code": "ug",
+            "handle": "uganda",
+            "continent": "africa",
+            "iso": "800",
+            "text": "Uganda"
+         },
+         {
+            "code": "ua",
+            "handle": "ukraine",
+            "continent": "europe",
+            "iso": "804",
+            "text": "Ukraine"
+         },
+         {
+            "code": "ae",
+            "handle": "united-arab-emirates",
+            "continent": "asia",
+            "iso": "784",
+            "text": "United Arab Emirates"
+         },
+         {
+            "code": "gb",
+            "handle": "united-kingdom",
+            "continent": "europe",
+            "alt": "England Scotland Wales GB UK Great Britain Britain Northern",
+            "boost": "3",
+            "iso": "826",
+            "text": "United Kingdom"
+         },
+         {
+            "code": "us",
+            "handle": "united-states",
+            "continent": "north america",
+            "alt": "US America USA",
+            "boost": "2",
+            "iso": "840",
+            "text": "United States"
+         },
+         {
+            "code": "um",
+            "handle": "united-states-minor-outlying-islands",
+            "continent": "north america",
+            "iso": "581",
+            "text": "United States Minor Outlying Islands"
+         },
+         {
+            "code": "uy",
+            "handle": "uruguay",
+            "continent": "south america",
+            "iso": "858",
+            "text": "Uruguay"
+         },
+         {
+            "code": "uz",
+            "handle": "uzbekistan",
+            "continent": "asia",
+            "iso": "860",
+            "text": "Uzbekistan"
+         },
+         {
+            "code": "vu",
+            "handle": "vanuatu",
+            "continent": "australasia",
+            "iso": "548",
+            "text": "Vanuatu"
+         },
+         {
+            "code": "va",
+            "handle": "vatican-city-state",
+            "continent": "europe",
+            "iso": "336",
+            "text": "Vatican City State (Holy See)"
+         },
+         {
+            "code": "ve",
+            "handle": "venezuela",
+            "continent": "south america",
+            "iso": "862",
+            "text": "Venezuela"
+         },
+         {
+            "code": "vn",
+            "handle": "vietnam",
+            "continent": "asia",
+            "iso": "704",
+            "text": "Vietnam"
+         },
+         {
+            "code": "vg",
+            "handle": "virgin-islands-uk",
+            "continent": "europe",
+            "iso": "92",
+            "text": "Virgin Islands (British)"
+         },
+         {
+            "code": "vi",
+            "handle": "virgin-islands-us",
+            "continent": "north america",
+            "iso": "850",
+            "text": "Virgin Islands (U.S.)"
+         },
+         {
+            "code": "wf",
+            "handle": "wallis-and-futuna-islands",
+            "continent": "polynesia",
+            "iso": "876",
+            "text": "Wallis And Futuna Islands"
+         },
+         {
+            "code": "eh",
+            "handle": "western-sahara",
+            "continent": "africa",
+            "iso": "732",
+            "text": "Western Sahara"
+         },
+         {
+            "code": "ye",
+            "handle": "yemen",
+            "continent": "asia",
+            "iso": "887",
+            "text": "Yemen"
+         },
+         {
+            "code": "yu",
+            "handle": "yugoslavia",
+            "continent": "europe",
+            "iso": "891",
+            "text": "Yugoslavia"
+         },
+         {
+            "code": "zr",
+            "handle": "zaire",
+            "continent": "africa",
+            "iso": "180",
+            "text": "Zaire"
+         },
+         {
+            "code": "zm",
+            "handle": "zambia",
+            "continent": "africa",
+            "iso": "894",
+            "text": "Zambia"
+         },
+         {
+            "code": "zw",
+            "handle": "zimbabwe",
+            "continent": "africa",
+            "iso": "716",
+            "text": "Zimbabwe"
+         }
+      ]
+   }
+}
